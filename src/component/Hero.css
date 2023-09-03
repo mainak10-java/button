@@ -1,0 +1,12 @@
+.hero-sub-div{
+    background-blend-mode: exclusion;
+}
+
+.div-border{
+    
+    border-image-slice: 1;
+    border-image-source: linear-gradient(rgba(0, 60, 216, 1), rgba(5, 171, 240, 1));
+    border-radius: 10px;
+    
+}
+
